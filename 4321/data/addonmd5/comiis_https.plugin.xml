@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[comiis_https.plugin]]></item>
+	<item id="RevisionID"><![CDATA[78514]]></item>
+	<item id="SN"><![CDATA[2018110414Q02s83CIEt]]></item>
+	<item id="RevisionDateline"><![CDATA[1534471202]]></item>
+	<item id="Data">
+		<item id="/comiis_more.inc.php"><![CDATA[92048adcb05fd43ba9d3bf016a6cf908]]></item>
+		<item id="/discuz_plugin_comiis_https_SC_GBK.xml"><![CDATA[236d1dfd4a14dc36c9cac054b257ea15]]></item>
+		<item id="/comiis_https.class.php"><![CDATA[b9aef55ccc0d8bd88cbcd1c80aec3773]]></item>
+		<item id="/discuz_plugin_comiis_https_TC_UTF8.xml"><![CDATA[2f8b76e11e9fb77aed748c33033dd700]]></item>
+		<item id="/comiis_https_mob.class.php"><![CDATA[90d10c1699359de5eec4fdd55e258676]]></item>
+		<item id="/comiis_setmob.inc.php"><![CDATA[75d715c4bc7b7a20455874b8dcd9eaa3]]></item>
+		<item id="/discuz_plugin_comiis_https_SC_UTF8.xml"><![CDATA[23c5630e81be1ea58f81ade254f8861a]]></item>
+		<item id="/uninstall.php"><![CDATA[4a28ed1b054ff62a14104c9d2b8a8f6d]]></item>
+		<item id="/discuz_plugin_comiis_https_TC_BIG5.xml"><![CDATA[b4feba98495a9f48b153eec14498f565]]></item>
+	</item>
+</root>
